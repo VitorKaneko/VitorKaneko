@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Vitor Kaneko
-
+---
 🎓 Estudante de **Engenharia de Software** (4º ano)
 💻 Apaixonado por tecnologia, desenvolvimento de software e soluções aplicadas ao esporte
 
