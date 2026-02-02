@@ -17,7 +17,6 @@ Além da tecnologia, o esporte faz parte da minha rotina. Atuo como atleta de v�
 
 * **Linguagens:** Python, JavaScript, HTML, CSS
 * **Frameworks & Bibliotecas:** Node.js, Express
-* **Banco de Dados:** MySQL, SQLite
 * **Ferramentas:** Git, GitHub, VS Code
 * **Outros conhecimentos:** Lógica de programação, desenvolvimento web
 
