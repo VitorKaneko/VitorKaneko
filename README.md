@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vitor Kaneko
 
-<!--
-**VitorKaneko/VitorKaneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** (4º ano)
+💻 Apaixonado por tecnologia, desenvolvimento de software e soluções aplicadas ao esporte
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de Engenharia de Software, atualmente no terceiro ano, com interesse em desenvolvimento de sistemas, programação e tecnologia aplicada ao esporte. Tenho experiência acadêmica com algoritmos, programação em Python e desenvolvimento web, e estou sempre buscando evoluir por meio de projetos práticos.
+
+Além da tecnologia, o esporte faz parte da minha rotina. Atuo como atleta de vôlei e vôlei de praia, o que me ajudou a desenvolver habilidades como trabalho em equipe, disciplina, liderança e comunicação — competências que levo também para a área de TI.
+
+---
+
+## Tecnologias & Ferramentas
+
+* **Linguagens:** Python, JavaScript, HTML, CSS
+* **Frameworks & Bibliotecas:** Node.js, Express
+* **Banco de Dados:** MySQL, SQLite
+* **Ferramentas:** Git, GitHub, VS Code
+* **Outros conhecimentos:** Lógica de programação, arquitetura cliente/servidor, desenvolvimento web
+
+---
+
+## Objetivos
+
+* Desenvolver projetos de nível **iniciante a intermediário** para compor meu portfólio
+* Aprofundar conhecimentos em **desenvolvimento de software**
+* Buscar oportunidades de **estágio**, especialmente em empresas de tecnologia ligadas ao esporte
+
+## 📫 Contato
+
+* GitHub: **@VitorKaneko**
+* LinkedIn: **www.linkedin.com/in/vitor-kaneko**
+
